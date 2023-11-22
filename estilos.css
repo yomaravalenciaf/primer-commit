@@ -107,7 +107,7 @@
         }
         .imagenop.electrico{
         
-         
+         align-self: initial;
         
             background-repeat: no-repeat;
             
@@ -142,19 +142,22 @@
 
             }
             .imagengif22.png{
-                background-repeat: no-repeat;
-            
-                float:right;
-                
-                height: 200px;
-                
+                background-repeat: no-repeat;  
+                height: 200px; 
                 width: 260px;
-                margin-left: 5px;
-                
-                margin-right: 5px;
-                
-                background-position: center;
+                align-self: center;
+             margin: 0 auto;
+                display: block;
                 background-image: url("gif22.png");
             
             }
-                
+            body{
+                background: url(fondorosa.avif);
+                background-size: cover;
+                background-attachment: fixed;
+            }
+            h1{
+                text-align: justify;
+                color: crimson;
+                font-size: 40p;
+            }    
