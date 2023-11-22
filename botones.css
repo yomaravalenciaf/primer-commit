@@ -77,3 +77,67 @@
 
 
     }
+    .textotecno{
+        color: black;
+        font-size: 20px;
+        text-align: initial;
+        text-decoration: black;
+    }
+    .br{
+        color: rgb(192, 13, 138);
+        font-size: 70px;
+        text-align: center;
+
+    }
+    .imagenop.electrico{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:right;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("op.electrico.png");
+        
+        }
+        .imagengif.gif{
+            background-repeat: no-repeat;
+        
+            float:right;
+            
+            height: 200px;
+            
+            width: 260px;
+            margin-left: 5px;
+            
+            margin-right: 5px;
+            
+            background-position: center;
+            background-image: url("GIF_files");
+
+        }
+        .imagengif22.png{
+            background-repeat: no-repeat;
+        
+            float:right;
+            
+            height: 200px;
+            
+            width: 260px;
+            margin-left: 5px;
+            
+            margin-right: 5px;
+            
+            background-position: center;
+            background-image: url("gif22.png");
+        
+        }
+            
